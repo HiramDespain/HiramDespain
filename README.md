@@ -8,9 +8,6 @@ I'm working on recoding some earlier c++ projects in Java. I'm also working on a
 
 Now, setting aside programming related things, I enjoying reading, learning (about almost anything), mathematics, theatre, and rock climbing, among many other things. 
 
-I'm a bit new to github, so please do give feedback s to how to improve my profile, etc. 
-Thank you!
-
 <!--
 **HiramDespain/HiramDespain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
