@@ -3,8 +3,8 @@
 My name is Hiram Despain! 
 I am a Computer Science Major at Colorado School of Mines. After which, I will get a master's degree in Quantum Engineering. 
 I am currently learning Java and improving my abilities with C++. 
-In the next couple of months, I plan to explore containerization through Docker and Kubernetes.
-I'm working on recoding some earlier c++ projects in Java. I'm also working on a degree/study path planner to help me plan my next couple of years of courses. 
+I'm working on recoding some earlier C++ projects in Java.
+Next semester (Spring 26), among other classes, I will be taking a Quantum Programming class and a Compiler design course. Very excited for both!
 
 Now, setting aside programming related things, I enjoying reading, learning (about almost anything), mathematics, theatre, and rock climbing, among many other things. 
 
