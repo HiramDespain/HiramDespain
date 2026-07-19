@@ -1,10 +1,11 @@
 ## Hello!
 
 My name is Hiram Despain! 
-I am a Computer Science Major at Colorado School of Mines. After which, I will get a master's degree in Quantum Engineering. 
-I am currently learning Java and improving my abilities with C++. 
-I'm working on recoding some earlier C++ projects in Java.
-Next semester (Spring 26), among other classes, I will be taking a Quantum Programming class and a Compiler design course. Very excited for both!
+A student of Computer Science and Quantum Engineering at Colorado School of Mines. Deeply interested in Quantum Compiler Theory! Experience with Qiskit, CUDA-Q, and Quake. 
+
+I am in need or reorganizing my Profile and Projects, it is currently a mess. I have a (from scratch) classical compiler that I need to make public and a (limited) quantum circuit encoder capable of pulling circuits from CUDA-Q and translating into intermediate representations, such as a DAG. 
+
+Additionally, I am currently doing research concerning quantum circuit cutting for distributed quantum systems.  
 
 Now, setting aside programming related things, I enjoying reading, learning (about almost anything), mathematics, theatre, and rock climbing, among many other things. 
 
