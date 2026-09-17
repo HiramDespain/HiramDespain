@@ -3,9 +3,11 @@
 My name is Hiram Despain! 
 A student of Computer Science and Quantum Engineering at Colorado School of Mines. Deeply interested in Quantum Compiler Theory! Experience with Qiskit, CUDA-Q, and Quake. 
 
-I am in need or reorganizing my Profile and Projects, it is currently a mess. I have a (from scratch) classical compiler that I need to make public and a (limited) quantum circuit encoder capable of pulling circuits from CUDA-Q and translating into intermediate representations, such as a DAG. 
+I just added my resume to my HiramDespain/ repository! I have that repo pinned, if you are interested in given it a look!
 
-Additionally, I am currently doing research concerning quantum circuit cutting for distributed quantum systems.  
+I am in need of reorganizing my Profile and Projects, it is currently a mess. I have a (from scratch) classical compiler that I need to make public and a (limited) quantum circuit encoder capable of pulling circuits from CUDA-Q and translating into various intermediate representations. 
+
+Additionally, I am currently doing research concerning quantum circuit cutting targeting  distributed quantum systems.  
 
 Now, setting aside programming related things, I enjoying reading, learning (about almost anything), mathematics, theatre, and rock climbing, among many other things. 
 
